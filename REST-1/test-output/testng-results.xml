@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-03T16:40:50 IST" name="Default suite" finished-at="2023-01-03T16:40:59 IST" duration-ms="8519">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T16:40:50 IST" name="Default test" finished-at="2023-01-03T16:40:59 IST" duration-ms="8519">
+      <class name="rest_assured.Trello">
+        <test-method signature="CreateBoards()[pri:0, instance:rest_assured.Trello@56a6d5a6]" started-at="2023-01-03T16:40:50 IST" name="CreateBoards" finished-at="2023-01-03T16:40:58 IST" duration-ms="7755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateBoards -->
+        <test-method signature="UpadateBoards()[pri:0, instance:rest_assured.Trello@56a6d5a6]" started-at="2023-01-03T16:40:58 IST" name="UpadateBoards" finished-at="2023-01-03T16:40:59 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpadateBoards -->
+      </class> <!-- rest_assured.Trello -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
